@@ -1,0 +1,50 @@
+{
+    "animations": [
+        {
+            "animName": "idle",
+            "anim": "omidon idle",
+            "fps": 24,
+            "loop": true
+        },
+        {
+            "animName": "singUP",
+            "anim": "omidon up",
+            "fps": 24,
+            "loop": false
+
+        },
+        {
+            "animName": "singLEFT",
+            "anim": "omidon left",
+            "fps": 24,
+            "loop": false
+
+        },
+        {
+            "animName": "singRIGHT",
+            "anim": "omidon right",
+            "fps": 24,
+            "loop": false
+        },
+        {
+            "animName": "singDOWN",
+            "anim": "omidon down",
+            "fps": 24,
+            "loop": false
+        }
+    ],
+    "globalOffset": [-320, -100],
+    "isPlayable": false,
+    "skins": [],
+    "barcolor": {
+        "red": 3,
+        "green": 20,
+        "blue": 48
+    },
+    "antialiasing": true,
+    "nativelyPlayable": true,
+    "flipX": true,
+    "updateHitbox": true,
+    "setGraphicSize": "",
+    "effect": "3dfloat"
+}

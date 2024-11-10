@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="omidon.png">
+<SubTexture name="omidon idle0000" x="477" y="1437" width="471" height="648" frameX="-260" frameY="-204" frameWidth="1047" frameHeight="1040" />
+<SubTexture name="omidon idle0001" x="0" y="1437" width="477" height="652" frameX="-249" frameY="-207" frameWidth="1047" frameHeight="1040" />
+<SubTexture name="omidon idle0002" x="898" y="0" width="433" height="715" frameX="-339" frameY="-139" frameWidth="1047" frameHeight="1040" />
+<SubTexture name="omidon idle0003" x="462" y="0" width="436" height="716" frameX="-344" frameY="-134" frameWidth="1047" frameHeight="1040" />
+<SubTexture name="omidon idle0004" x="0" y="726" width="430" height="711" frameX="-353" frameY="-135" frameWidth="1047" frameHeight="1040" />
+<SubTexture name="omidon left0000" x="1302" y="726" width="399" height="709" frameX="-256" frameY="-140" frameWidth="1047" frameHeight="1040" />
+<SubTexture name="omidon left0001" x="430" y="726" width="390" height="711" frameX="-265" frameY="-137" frameWidth="1047" frameHeight="1040" />
+<SubTexture name="omidon right0000" x="820" y="726" width="482" height="711" frameX="-278" frameY="-127" frameWidth="1047" frameHeight="1040" />
+<SubTexture name="omidon right0001" x="1792" y="0" width="468" height="705" frameX="-282" frameY="-132" frameWidth="1047" frameHeight="1040" />
+<SubTexture name="omidon up0000" x="0" y="0" width="462" height="726" frameX="-272" frameY="-139" frameWidth="1047" frameHeight="1040" />
+<SubTexture name="omidon up0001" x="1331" y="0" width="461" height="713" frameX="-272" frameY="-151" frameWidth="1047" frameHeight="1040" />
+<SubTexture name="omidon down0000" x="948" y="1437" width="480" height="646" frameX="-221" frameY="-204" frameWidth="1047" frameHeight="1040" />
+<SubTexture name="omidon down0001" x="1792" y="705" width="464" height="663" frameX="-240" frameY="-186" frameWidth="1047" frameHeight="1040" />
+</TextureAtlas>
